@@ -29,7 +29,7 @@ jobs:
       PGPASSWORD: postgres
       PGDATABASE: cms
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Show tool versions
         run: |
