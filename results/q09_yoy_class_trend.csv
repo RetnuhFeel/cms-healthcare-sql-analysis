@@ -1,0 +1,37 @@
+geo_name,drug_family,data_year,drug_cost_millions,yoy_change_pct
+Tennessee,GLP-1 / GIP,2019,151.3,
+Tennessee,GLP-1 / GIP,2020,202.6,33.9
+Tennessee,GLP-1 / GIP,2021,268.4,32.5
+Tennessee,GLP-1 / GIP,2022,371.1,38.3
+Tennessee,GLP-1 / GIP,2023,601.3,62.0
+Tennessee,GLP-1 / GIP,2024,722.4,20.1
+Tennessee,Insulin,2019,417.8,
+Tennessee,Insulin,2020,420.1,0.6
+Tennessee,Insulin,2021,437.1,4.0
+Tennessee,Insulin,2022,434.8,-0.5
+Tennessee,Insulin,2023,460.7,6.0
+Tennessee,Insulin,2024,228.1,-50.5
+Tennessee,SGLT2,2019,60.2,
+Tennessee,SGLT2,2020,90.9,50.8
+Tennessee,SGLT2,2021,132.0,45.3
+Tennessee,SGLT2,2022,201.4,52.6
+Tennessee,SGLT2,2023,308.2,53.0
+Tennessee,SGLT2,2024,393.3,27.6
+National,GLP-1 / GIP,2019,5274.2,
+National,GLP-1 / GIP,2020,7264.2,37.7
+National,GLP-1 / GIP,2021,10012.0,37.8
+National,GLP-1 / GIP,2022,13909.6,38.9
+National,GLP-1 / GIP,2023,22204.1,59.6
+National,GLP-1 / GIP,2024,27503.4,23.9
+National,Insulin,2019,15276.9,
+National,Insulin,2020,15358.8,0.5
+National,Insulin,2021,15580.7,1.4
+National,Insulin,2022,15420.8,-1.0
+National,Insulin,2023,15946.7,3.4
+National,Insulin,2024,7664.8,-51.9
+National,SGLT2,2019,2447.2,
+National,SGLT2,2020,3695.2,51.0
+National,SGLT2,2021,5627.6,52.3
+National,SGLT2,2022,8878.5,57.8
+National,SGLT2,2023,13553.3,52.7
+National,SGLT2,2024,17217.6,27.0

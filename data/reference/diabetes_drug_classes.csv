@@ -1,0 +1,95 @@
+gnrc_name,drug_class,is_combination
+Metformin Hcl,Biguanide (metformin),N
+Glimepiride,Sulfonylurea,N
+Glipizide,Sulfonylurea,N
+Glyburide,Sulfonylurea,N
+"Glyburide,micronized",Sulfonylurea,N
+Pioglitazone Hcl,Thiazolidinedione (TZD),N
+Alogliptin Benzoate,DPP-4 inhibitor,N
+Linagliptin,DPP-4 inhibitor,N
+Saxagliptin Hcl,DPP-4 inhibitor,N
+Sitagliptin,DPP-4 inhibitor,N
+Sitagliptin Phosphate,DPP-4 inhibitor,N
+Canagliflozin,SGLT2 inhibitor,N
+Dapagliflozin Propanediol,SGLT2 inhibitor,N
+Empagliflozin,SGLT2 inhibitor,N
+Ertugliflozin Pidolate,SGLT2 inhibitor,N
+Sotagliflozin,SGLT2 inhibitor,N
+Dulaglutide,GLP-1 receptor agonist,N
+Liraglutide,GLP-1 receptor agonist,N
+Semaglutide,GLP-1 receptor agonist,N
+Exenatide,GLP-1 receptor agonist,N
+Exenatide Microspheres,GLP-1 receptor agonist,N
+Lixisenatide,GLP-1 receptor agonist,N
+Tirzepatide,GIP/GLP-1 receptor agonist,N
+Albiglutide,GLP-1 receptor agonist,N
+Acarbose,Alpha-glucosidase inhibitor,N
+Miglitol,Alpha-glucosidase inhibitor,N
+Nateglinide,Meglitinide,N
+Repaglinide,Meglitinide,N
+Pramlintide Acetate,Amylin analog,N
+Insulin Aspart,Insulin - rapid acting,N
+Insulin Aspart (Niacinamide),Insulin - rapid acting,N
+Insulin Aspart/B3/Pump Cart,Insulin - rapid acting,N
+Insulin Glulisine,Insulin - rapid acting,N
+Insulin Lispro,Insulin - rapid acting,N
+Insulin Lispro-Aabc,Insulin - rapid acting,N
+"Insulin Regular, Human",Insulin - short acting,N
+Insulin Regular In 0.9 % Nacl,Insulin - short acting,N
+Insulin Nph Human Isophane,Insulin - intermediate acting,N
+Insulin Degludec,Insulin - long acting,N
+Insulin Detemir,Insulin - long acting,N
+"Insulin Glargine,hum.Rec.Anlog",Insulin - long acting,N
+Insulin Glargine-Yfgn,Insulin - long acting,N
+Insulin Glargine-Aglr,Insulin - long acting,N
+Insulin Aspart Prot/Insuln Asp,Insulin - premixed,Y
+Insulin Lispro Protamin/Lispro,Insulin - premixed,Y
+Insulin Nph Hum/Reg Insulin Hm,Insulin - premixed,Y
+Insulin Degludec/Liraglutide,Insulin + GLP-1 combination,Y
+Insulin Glargine/Lixisenatide,Insulin + GLP-1 combination,Y
+Alogliptin Benz/Pioglitazone,Oral combination,Y
+Alogliptin Benz/Metformin Hcl,Oral combination,Y
+Dapagliflozin/Metformin Hcl,Oral combination,Y
+Ertugliflozin/Sitagliptin,Oral combination,Y
+Sitagliptin/Metformin Hcl,Oral combination,Y
+Canagliflozin/Metformin Hcl,Oral combination,Y
+Dapaglifloz Propaned/Metformin,Oral combination,Y
+Dapagliflozin/Saxagliptin Hcl,Oral combination,Y
+Empaglifloz/Linaglip/Metformin,Oral combination,Y
+Empagliflozin/Linagliptin,Oral combination,Y
+Empagliflozin/Metformin Hcl,Oral combination,Y
+Ertugliflozin/Metformin,Oral combination,Y
+Ertugliflozin/Sitagliptin Phos,Oral combination,Y
+Glipizide/Metformin Hcl,Oral combination,Y
+Glyburide/Metformin Hcl,Oral combination,Y
+Linagliptin/Metformin Hcl,Oral combination,Y
+Pioglitazone Hcl/Glimepiride,Oral combination,Y
+Pioglitazone Hcl/Metformin Hcl,Oral combination,Y
+Saxagliptin Hcl/Metformin Hcl,Oral combination,Y
+Sitagliptin Phos/Metformin Hcl,Oral combination,Y
+"Bolus Insulin Pump, 200 Unit",Insulin delivery supplies,N
+"Insulin Pen,reusable,bt Lispro",Insulin delivery supplies,N
+"Insulin Pen,reusable,bt,aspart",Insulin delivery supplies,N
+"Insulin Pmp Cart,aut,g6/7,cntr",Insulin delivery supplies,N
+"Insulin Pump Cart,auto,bt,g6/7",Insulin delivery supplies,N
+"Insulin Pump Cart,cont Inf,bt",Insulin delivery supplies,N
+"Insulin Pump Cart,cont Inf,rf",Insulin delivery supplies,N
+"Sub-Q Insulin Device, 20 Unit",Insulin delivery supplies,N
+"Sub-Q Insulin Device, 30 Unit",Insulin delivery supplies,N
+"Sub-Q Insulin Device, 40 Unit",Insulin delivery supplies,N
+"Syringe And Needle,insulin,1ml",Insulin delivery supplies,N
+"Syringe-Needle,insulin,0.5 Ml",Insulin delivery supplies,N
+"Insulin Admin. Supplies",Insulin delivery supplies,N
+"Insulin Pmp Cart,bt,g6/l2/cntr",Insulin delivery supplies,N
+"Insulin Pump Cart,30 Units/day",Insulin delivery supplies,N
+"Insulin Pump Cart,auto,bt,g6/l",Insulin delivery supplies,N
+"Insulin Pump Cart,auto,bt/cntr",Insulin delivery supplies,N
+"Insulin Pump Cart,automated,bt",Insulin delivery supplies,N
+"Insulin Pump Cart,cont Bt/cntr",Insulin delivery supplies,N
+"Insulin Pump Cartridge",Insulin delivery supplies,N
+"Insulin Pump Controller",Insulin delivery supplies,N
+"Insulin Pump Controller, Rf",Insulin delivery supplies,N
+"Subcutaneous Insulin Pump",Insulin delivery supplies,N
+"Syr,ndl,insulin,1ml-Sharps Bin",Insulin delivery supplies,N
+"Syringe With Needle, Insulin",Insulin delivery supplies,N
+"Syringe,insulin,needless 1 Ml",Insulin delivery supplies,N

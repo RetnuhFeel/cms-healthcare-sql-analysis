@@ -1,0 +1,11 @@
+spend_rank,brand_name,drug_class,claims,drug_cost_millions,cost_per_30day_fill
+1,Ozempic,GLP-1 receptor agonist,269580,336.6,908
+2,Jardiance,SGLT2 inhibitor,230347,224.3,551
+3,Mounjaro,GIP/GLP-1 receptor agonist,154961,189.4,1039
+4,Farxiga,SGLT2 inhibitor,144300,129.4,534
+5,Trulicity,GLP-1 receptor agonist,76462,94.2,935
+6,Januvia,DPP-4 inhibitor,73605,60.9,494
+7,Tresiba Flextouch U-200,Insulin - long acting,26635,30.7,633
+8,Rybelsus,GLP-1 receptor agonist,19799,28.2,922
+9,Tresiba Flextouch U-100,Insulin - long acting,31614,20.8,344
+10,Lantus Solostar,Insulin - long acting,122945,16.0,73

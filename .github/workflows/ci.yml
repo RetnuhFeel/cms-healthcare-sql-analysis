@@ -1,0 +1,57 @@
+name: SQL pipeline
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres   # throwaway CI container, not a real credential
+          POSTGRES_DB: cms
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      PGHOST: localhost
+      PGPORT: 5432
+      PGUSER: postgres
+      PGPASSWORD: postgres
+      PGDATABASE: cms
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Show tool versions
+        run: |
+          psql --version
+          psql -Atc "SELECT version();"
+
+      - name: Build database, run data-quality checks and all 20 queries
+        run: ./scripts/build.sh
+
+      - name: Publish data-quality report to the job summary
+        if: always()
+        run: |
+          {
+            echo "## Data-quality checks"
+            echo
+            echo "| # | severity | failed rows | check |"
+            echo "|---|---|---|---|"
+            psql -At -F ' | ' -c "SELECT check_id, severity, failed_rows, check_name FROM dq.check_results ORDER BY check_id" \
+              | sed 's/^/| /; s/$/ |/'
+          } >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Committed results match a fresh run
+        run: |
+          git status --porcelain results/
+          git diff --exit-code -- results/

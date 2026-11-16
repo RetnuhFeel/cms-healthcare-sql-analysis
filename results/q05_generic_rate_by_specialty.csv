@@ -1,0 +1,11 @@
+specialty,prescribers,total_claims,generic_rate_pct,avg_cost_per_claim
+Pharmacist,404,23880,6.7,358
+Endocrinology,105,313601,43.9,522
+Pulmonary Disease,235,334306,44.3,634
+Optometry,852,244001,60.1,184
+Allergy/ Immunology,83,81271,64.1,695
+Ophthalmology,354,484738,65.5,138
+Infectious Disease,110,76840,71.2,951
+Hematology-Oncology,210,200675,71.9,2946
+Clinical Cardiac Electrophysiology,62,143015,72.5,279
+Medical Oncology,56,60447,75.5,2497

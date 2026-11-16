@@ -1,0 +1,9 @@
+# raw/full downloads stay out of git; only data/sample is committed
+data/raw/
+*.csv
+!data/reference/*.csv
+!results/*.csv
+__pycache__/
+.venv/
+.env
+*.log

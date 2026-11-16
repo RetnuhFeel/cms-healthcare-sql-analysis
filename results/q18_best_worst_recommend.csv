@@ -1,0 +1,11 @@
+list,hospital,ownership_group,overall_rating,pct_definitely_recommend,completed_surveys,hospitals_compared
+Top 5,Mountain Home Va Medical Center (Mountain Home),Federal government,5,91,523,56
+Top 5,Williamson Medical Center (Franklin),State/local government,5,82,764,56
+Top 5,Franklin Woods Community Hospital (Johnson City),Non-profit,3,81,1323,56
+Top 5,Vanderbilt University Medical Center (Nashville),Non-profit,5,79,1699,56
+Top 5,Maury Regional Hospital (Columbia),State/local government,3,78,420,56
+Bottom 5,Saint Francis Bartlett Medical Center (Bartlett),For-profit,1,57,835,56
+Bottom 5,Johnson City Medical Center (Johnson City),Non-profit,1,57,1421,56
+Bottom 5,Blount Memorial Hospital (Maryville),State/local government,2,55,405,56
+Bottom 5,St Francis Hospital (Memphis),For-profit,1,49,970,56
+Bottom 5,Vanderbilt Clarksville Hospital (Clarksville),For-profit,1,39,622,56

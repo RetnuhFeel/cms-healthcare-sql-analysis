@@ -1,0 +1,12 @@
+growth_rank,state_code,state_name,benes_jan_2019,benes_latest,growth_pct,percentile,states_ranked,latest_month
+1,AK,Alaska,97932,124271,26.9,100,51,Jul 2026
+2,ID,Idaho,330296,417781,26.5,98,51,Jul 2026
+3,DE,Delaware,206032,258904,25.7,96,51,Jul 2026
+4,UT,Utah,395400,491386,24.3,94,51,Jul 2026
+5,WY,Wyoming,108246,133449,23.3,92,51,Jul 2026
+6,NH,New Hampshire,294927,361924,22.7,90,51,Jul 2026
+7,TX,Texas,4105681,5028958,22.5,88,51,Jul 2026
+8,CO,Colorado,897701,1091700,21.6,86,51,Jul 2026
+9,SC,South Carolina,1064858,1289149,21.1,84,51,Jul 2026
+10,NV,Nevada,525363,630832,20.1,82,51,Jul 2026
+38,TN,Tennessee,1346444,1531146,13.7,26,51,Jul 2026

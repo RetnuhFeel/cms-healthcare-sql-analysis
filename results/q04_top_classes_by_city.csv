@@ -1,0 +1,16 @@
+city,class_rank,drug_class,claims,pct_of_city_claims
+Chattanooga,1,Biguanide (metformin),30869,26.8
+Chattanooga,2,SGLT2 inhibitor,20241,17.6
+Chattanooga,3,GLP-1 receptor agonist,18373,16.0
+Johnson City,1,Biguanide (metformin),22079,30.7
+Johnson City,2,SGLT2 inhibitor,11708,16.3
+Johnson City,3,GLP-1 receptor agonist,10887,15.2
+Knoxville,1,Biguanide (metformin),54643,29.8
+Knoxville,2,SGLT2 inhibitor,28932,15.8
+Knoxville,3,GLP-1 receptor agonist,25939,14.1
+Memphis,1,Biguanide (metformin),53068,26.2
+Memphis,2,SGLT2 inhibitor,36140,17.9
+Memphis,3,GLP-1 receptor agonist,29047,14.4
+Nashville,1,Biguanide (metformin),63680,27.4
+Nashville,2,GLP-1 receptor agonist,44290,19.0
+Nashville,3,SGLT2 inhibitor,39177,16.8

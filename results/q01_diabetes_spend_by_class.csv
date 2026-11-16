@@ -1,0 +1,18 @@
+drug_class,prescribers,claims,drug_cost_millions,pct_of_diabetes_spend,pct_of_diabetes_claims
+GLP-1 receptor agonist,4562,371163,464.9,36.2,14.9
+SGLT2 inhibitor,5066,379208,356.1,27.8,15.2
+GIP/GLP-1 receptor agonist,2982,154961,189.4,14.8,6.2
+Insulin - long acting,3633,260338,103.4,8.1,10.4
+DPP-4 inhibitor,2389,92478,73.0,5.7,3.7
+Insulin - rapid acting,1628,94801,29.8,2.3,3.8
+Oral combination,1057,33973,27.4,2.1,1.4
+Insulin delivery supplies,351,12210,9.8,0.8,0.5
+Insulin + GLP-1 combination,299,8799,9.7,0.8,0.4
+Insulin - short acting,233,6503,6.7,0.5,0.3
+Biguanide (metformin),5600,723509,5.5,0.4,29.0
+Insulin - premixed,429,11981,2.7,0.2,0.5
+Sulfonylurea,3605,268176,2.6,0.2,10.7
+Thiazolidinedione (TZD),1838,71603,0.8,0.1,2.9
+Meglitinide,176,5644,0.3,0.0,0.2
+Insulin - intermediate acting,119,1936,0.2,0.0,0.1
+Alpha-glucosidase inhibitor,62,1333,0.0,0.0,0.1
